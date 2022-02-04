@@ -7,7 +7,7 @@ canvas.addEventListener("click", function(event){
 const cord1 = document.getElementById("x");
 const cord2 = document.getElementById("y");
 
-
+//OLA
 var ctx = canvas.getContext("2d");
 
 var imgData = ctx.getImageData(0, 0, canvas.width, canvas.height);
